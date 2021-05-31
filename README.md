@@ -6,7 +6,7 @@
 
 - ### Additionally, heavily involved in research projects in the field of Bioinformatics. 😃
 
-![Background Text](gifs/_1.gif)
+![Background Text](assets/_1.gif)
 
 
 <!--**Mahim1997/Mahim1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on research projects related to (but not limited to) **Distributed Systems, Applied Algorithms in Security & Privacy**
 
 - 🗯️ Research Interests include: **Bioinformatics**, **Applied Algorithms**, **NLP**, **CoMP 5G**
+
+
 
 - 📫 How to reach me: mahim.mahbub.97@gmail.com
 
