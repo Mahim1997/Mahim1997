@@ -6,8 +6,13 @@
 
 - ### Additionally, heavily involved in research projects in the field of Bioinformatics. 😃
 
-![Background Text](assets/_1.gif)
+<div class="row">
+  <div class="column">
+    <img src="assets/_1.gif" width="200" height="200" /> <img src="assets/_0.gif" width="200" height="200" /> <img src="assets/_2.gif" width="200" height="200" /> <img src="assets/_3.gif" width="200" height="200" />
+  </div>
+</div>
 
+<!--<img src="assets/_1.gif" width="250" height="250" />-->
 
 <!--**Mahim1997/Mahim1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
