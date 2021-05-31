@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - 🔭 Currently working on **Mobile App Development** using **Flutter**
 - 🔭 Currently working on research projects including **Applied Algorithms in the field of Bioinformatics**
 
-- 🌱 Currently learning PyTorch and Flutter
-- 🌱 Currently learning the basics of Distributed Systems
+- 🌱 Currently learning **PyTorch and Flutter**
+- 🌱 Currently learning the basics of **Distributed Systems**
 - 👯 I’m looking to collaborate on research projects related to (but not limited to) **Distributed Systems, Applied Algorithms in Security & Privacy**
 
 - 🗯️ Research Interests include: **Bioinformatics**, **Applied Algorithms**, **NLP**, **CoMP 5G**
