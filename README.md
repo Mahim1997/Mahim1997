@@ -4,6 +4,7 @@
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Mahim1997)
 &nbsp;
 [<img src="https://github.com/Mahim1997/Mahim1997/blob/main/assets/gmailLogo.svg" width="25" height="25"> Gmail](mailto:mahim.mahbub.97@gmail.com)
+<!--[![Gmail](https://github.com/Mahim1997/Mahim1997/blob/main/assets/gmail.png){:height="25px" width="25px"} Gmail](mailto:mahim.mahbub.97@gmail.com)-->
     
 
 
