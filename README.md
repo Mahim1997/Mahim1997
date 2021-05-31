@@ -24,15 +24,12 @@ Here are some ideas to get you started:
 
 - 🗯️ Research Interests include: **Bioinformatics**, **Applied Algorithms**, **NLP**, **CoMP 5G**
 
--  <p>
-    📫 Contact me: 
-    <a href="https://www.linkedin.com/in/mahim-mahbub-0224431b2/" rel="nofollow noreferrer">
-      <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-    </a> &nbsp; 
-    <a href="https://github.com/Mahim1997" rel="nofollow noreferrer">
-      <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-    </a>
-  </p>
+- 📫 Contact me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mahim-mahbub-0224431b2/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Mahim1997)
+&nbsp;
+
+    
 
 
 
