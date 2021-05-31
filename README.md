@@ -10,7 +10,7 @@
 
 <div class="row">
   <div class="column">
-    <img src="assets/_1.gif" width="200" height="200" /> <img src="assets/_0.gif" width="200" height="200" /> <img src="assets/_2.gif" width="200" height="200" /> <img src="assets/_3.gif" width="200" height="200" />
+    <img src="assets/_1.gif" width="150" height="150" /> <img src="assets/_0.gif" width="150" height="150" /> <img src="assets/_2.gif" width="150" height="150" /> <img src="assets/_3.gif" width="150" height="150" />
   </div>
 </div>
 
