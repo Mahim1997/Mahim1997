@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🔭 Currently working on **Neural Machine Translation Systems** and **Mobile App Development** using **Flutter**
 - 🔭 Currently working on research projects including **Applied Algorithms in the field of Bioinformatics**
 
-- 🌱 Currently learning **PyTorch and Flutter** and the basics of **Distributed Systems**
+- 🌱 Currently learning **PyTorch**, **Flutter** and the basics of **Distributed Systems**
 - 👯 I’m looking to collaborate on research projects related to (but not limited to) **Distributed Systems, Applied Algorithms in Security & Privacy**
 
 - 🗯️ Research Interests include: **Bioinformatics**, **Applied Algorithms**, **Distributed Systems**, **NLP**, **CoMP 5G**
