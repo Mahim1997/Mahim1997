@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🔭 Currently working on research projects including **Applied Algorithms in the field of Bioinformatics**
 
 - 🌱 Currently learning **PyTorch**, **Flutter** and the basics of **Distributed Systems**
-- 👯 I’m looking to collaborate on research projects related to (but not limited to) **Distributed Systems, Applied Algorithms in Security & Privacy**
+- 👯 I’m looking to collaborate on research projects related to **Distributed Systems, Applied Algorithms in Security & Privacy**
 
 - 🗯️ Research Interests include: **Bioinformatics**, **Applied Algorithms**, **Distributed Systems**, **NLP**, **CoMP 5G**
 
