@@ -1,10 +1,12 @@
 ## Hello 👋 !!! I am Mahim Mahbub 😄
 
-- ### Recent Graduate from Computer Science and Engineering, BUET. 😃
+### Recent Graduate from Computer Science and Engineering, BUET. 😃
 
+<!--
 - ### Currently working as a Jr. Software Engineer @ REVE Systems Ltd. 😃
 
 - ### Additionally, heavily involved in research projects in the fields of Bioinformatics and Applied Deep Learning. 😃
+-->
 
 <div class="row">
   <div class="column">
