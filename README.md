@@ -1,6 +1,6 @@
 ## Hello 👋 !!! I am Mahim Mahbub 😄
 
-### Recent Graduate from Computer Science and Engineering, BUET. 😃
+<!--### Recent Graduate from Computer Science and Engineering, BUET. 😃-->
 
 <!--
 - ### Currently working as a Jr. Software Engineer @ REVE Systems Ltd. 😃
@@ -21,7 +21,7 @@
 <!--**Mahim1997/Mahim1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-
+- 🎓 Recently graduated from **Computer Science and Engineering, BUET** 😃
 - 🔭 Currently working on **Neural Machine Translation Systems** and **Mobile App Development** using **Flutter**
 - 🔭 Currently working on research projects including **Applied Algorithms in the field of Bioinformatics**
 
