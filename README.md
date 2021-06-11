@@ -1,4 +1,4 @@
-## Hello 👋 !!! I am Mahim Mahbub 😄
+## Hello 👋 I am Mahim 😃
 
 <!--### Recent Graduate from Computer Science and Engineering, BUET. 😃-->
 
@@ -21,12 +21,12 @@
 <!--**Mahim1997/Mahim1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-<!--- 🎓 Recently graduated from **Computer Science and Engineering, BUET** 😃-->
+- 🎓 Recently graduated from **Computer Science and Engineering, BUET** 😄
 - 🔭 Currently working on **Neural Machine Translation Systems** and **Mobile App Development** using **Flutter**
 - 🔭 Currently working on research projects including **Applied Algorithms in the fields of Bioinformatics & Memory Management**
 
 - 🌱 Currently learning **PyTorch**, **Flutter** and the basics of **Distributed Systems**
-- 👯 I’m looking to collaborate on research projects related to **Distributed Systems, Applied Algorithms in Security & Privacy**
+<!--- 👯 I’m looking to collaborate on research projects related to **Distributed Systems, Applied Algorithms in Security & Privacy**-->
 
 - 🗯️ Research Interests include: **Applied Algorithms**, **Bioinformatics**, **Memory Management**, **Distributed Systems**
 <!--**NLP**, **CoMP 5G**-->
