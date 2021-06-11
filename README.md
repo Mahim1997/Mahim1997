@@ -22,7 +22,7 @@
 Here are some ideas to get you started:
 -->
 - 🎓 Recently graduated from **Computer Science and Engineering, BUET** 😄
-- 🔭 Currently working on **Neural Machine Translation Systems** and **Mobile App Development** using **Flutter**
+- 🔭 Currently working on **Neural Machine Translation Systems** and **Mobile App Development** using **Flutter** @ **REVE Systems**
 - 🔭 Currently working on research projects including **Applied Algorithms in the fields of Bioinformatics & Memory Management**
 
 - 🌱 Currently learning **PyTorch**, **Flutter** and the basics of **Distributed Systems**
