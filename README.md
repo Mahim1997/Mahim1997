@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 -->
 - 🎓 Recently graduated from **Computer Science and Engineering, BUET** 😄
 - 🔭 Currently working on **Neural Machine Translation Systems** and **Mobile App Development** using **Flutter** @ **REVE Systems**
-- 🔭 Currently working on research projects including **Applied Algorithms in the fields of Bioinformatics & Memory Management**
+- 🔭 Currently working on research projects including **Applied Algorithms in the fields of Bioinformatics**
 
 - 🌱 Currently learning **PyTorch**, **Flutter** and the basics of **Distributed Systems**
 <!--- 👯 I’m looking to collaborate on research projects related to **Distributed Systems, Applied Algorithms in Security & Privacy**-->
 
-- 🗯️ Research Interests include: **Applied Algorithms**, **Bioinformatics**, **Memory Management**, **Distributed Systems**
-<!--**NLP**, **CoMP 5G**-->
+- 🗯️ Research Interests include: **Applied Algorithms**, **Bioinformatics**, **Distributed Systems**
+<!--**NLP**, **CoMP 5G**, **Memory Management**  & Memory Management-->
 
 
 - 📫 Contact me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mahim-mahbub-0224431b2/)
