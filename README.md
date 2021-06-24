@@ -1,6 +1,6 @@
-## Hello 👋 I am Mahim 😃
+## Hello, I am Mahim 😃
 
-<!--### Recent Graduate from Computer Science and Engineering, BUET. 😃-->
+<!--### Recent Graduate from Computer Science and Engineering, BUET. 😃 👋-->
 
 <!--
 - ### Currently working as a Jr. Software Engineer @ REVE Systems Ltd. 😃
