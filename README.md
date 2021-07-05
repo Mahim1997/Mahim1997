@@ -37,6 +37,10 @@ Here are some ideas to get you started:
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Mahim1997)
 &nbsp;
 [<img src="https://github.com/Mahim1997/Mahim1997/blob/main/assets/gmailLogo.svg" width="25" height="25"> Gmail](mailto:mahim.mahbub.97@gmail.com)
+&nbsp;
+[Resume ](https://drive.google.com/file/d/1N9Av3-dkkdsNejK7LO84NU8zLTRrmLBh/view?usp=sharing)
+&nbsp;
+[CV](https://drive.google.com/file/d/1klcSVDPcT6iCDD5izYwa8I7mRPWJHIny/view?usp=sharing)
 <!--[![Gmail](https://github.com/Mahim1997/Mahim1997/blob/main/assets/gmail.png){:height="25px" width="25px"} Gmail](mailto:mahim.mahbub.97@gmail.com)-->
     
 
