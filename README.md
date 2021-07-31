@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 - 🔭 Currently working on **Neural Machine Translation Systems** and **Mobile App Development** using **Flutter** @ **REVE Systems**
 - 🔭 Currently working on research projects including **Applied Algorithms in the fields of Bioinformatics**
 
-- 🌱 Currently learning **PyTorch**, **Flutter** and the basics of **Distributed Systems**
+- 🌱 Currently learning **PyTorch**, **Flutter** and the basics of **High Dimensional Data Management**
 <!--- 👯 I’m looking to collaborate on research projects related to **Distributed Systems, Applied Algorithms in Security & Privacy**-->
 
-- 🗯️ Research Interests include: **Applied Algorithms**, **Bioinformatics**, **Distributed Systems**
+- 🗯️ Research Interests include: **Applied Algorithms**, **Bioinformatics**, **High Dimensional Data Management**
 <!--**NLP**, **CoMP 5G**, **Memory Management**  & Memory Management-->
 
 
