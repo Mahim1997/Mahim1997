@@ -2,11 +2,7 @@
 
 <!--### Recent Graduate from Computer Science and Engineering, BUET. 😃 👋-->
 
-<!--
-- ### Currently working as a Jr. Software Engineer @ REVE Systems Ltd. 😃
 
-- ### Additionally, heavily involved in research projects in the fields of Bioinformatics and Applied Deep Learning. 😃
--->
 
 <!--
 <div class="row">
@@ -22,7 +18,6 @@
 Here are some ideas to get you started:
 -->
 - 🎓 Recently graduated from **Computer Science and Engineering, BUET** 😄
-- 🔭 Currently working on **Neural Machine Translation Systems** and **Mobile App Development** using **Flutter** @ **REVE Systems**
 - 🔭 Currently working on research projects including **Applied Algorithms in the fields of Bioinformatics**
 
 - 🌱 Currently learning **PyTorch**, **Flutter** and the basics of **High Dimensional Data Management**
