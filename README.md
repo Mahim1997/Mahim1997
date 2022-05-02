@@ -17,13 +17,13 @@
 <!--**Mahim1997/Mahim1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-- 🎓 Recently graduated from **Computer Science and Engineering, BUET** 😄
-- 🔭 Currently working on research projects including **Applied Algorithms in the fields of Bioinformatics**
+<!-- - 🌱 Currently learning **PyTorch**, **Flutter** and the basics of **High Dimensional Data Management** -->
+- 🌱 Currently learning about **Swift**, **UIKit** and **Reactive Programming** for **iOS development**
+- 🎓 Recently graduated from **Computer Science and Engineering, BUET**
+- 🔭 Currently working on research projects in the field of **Applied ML**
 
-- 🌱 Currently learning **PyTorch**, **Flutter** and the basics of **High Dimensional Data Management**
 <!--- 👯 I’m looking to collaborate on research projects related to **Distributed Systems, Applied Algorithms in Security & Privacy**-->
-
-- 🗯️ Research Interests include: **Applied Algorithms**, **Bioinformatics**, **High Dimensional Data Management**
+<!-- - 🗯️ Research Interests include: **Applied Algorithms**, **Bioinformatics**, **High Dimensional Data Management**-->
 <!--**NLP**, **CoMP 5G**, **Memory Management**  & Memory Management-->
 
 
