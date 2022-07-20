@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 <!-- - 🌱 Currently learning **PyTorch**, **Flutter** and the basics of **High Dimensional Data Management** -->
 - 🌱 Currently learning about **Swift**, **UIKit** and **Reactive Programming** for **iOS development**
 - 🎓 Recently graduated from **Computer Science and Engineering, BUET**
-- 🔭 Currently working on research projects in the field of **Applied ML**
+- 👯 **Highly Passionate** about **Problem Solving** & **Distributed Systems**
+<!-- - 🔭 Currently working on research projects in the field of **Applied ML** -->
 
 <!--- 👯 I’m looking to collaborate on research projects related to **Distributed Systems, Applied Algorithms in Security & Privacy**-->
 <!-- - 🗯️ Research Interests include: **Applied Algorithms**, **Bioinformatics**, **High Dimensional Data Management**-->
