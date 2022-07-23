@@ -17,7 +17,8 @@
 Here are some ideas to get you started:
 -->
 <!-- - 🌱 Currently learning **PyTorch**, **Flutter** and the basics of **High Dimensional Data Management** -->
-- 🌱 Currently learning about **Swift**, **UIKit** and **Reactive Programming** for **iOS development**
+- 🌱 Currently working on **Swift**, **UIKit** and **Reactive Programming** for **iOS development**
+- 🗯️ Interested in **Flutter** for **Mobile development**
 - 🎓 Recently graduated from **Computer Science and Engineering, BUET**
 - 👯 **Highly Passionate** about **Problem Solving** & **Distributed Systems**
 <!-- - 🔭 Currently working on research projects in the field of **Applied ML** -->
