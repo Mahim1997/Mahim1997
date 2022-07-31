@@ -2,9 +2,6 @@
 
 <!--### Recent Graduate from Computer Science and Engineering, BUET. 😃 👋-->
 
-
-
-
 <div class="row">
   <div class="column">
     <img src="assets/_1.gif" width="150" height="150" /> <img src="assets/_0.gif" width="150" height="150" /> <img src="assets/_2.gif" width="150" height="150" /> <img src="assets/_3.gif" width="150" height="150" />
@@ -16,16 +13,15 @@
 <!--**Mahim1997/Mahim1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-<!-- - 🌱 Currently learning **PyTorch**, **Flutter** and the basics of **High Dimensional Data Management** -->
+
 - 🌱 Currently working on **Swift**, **UIKit** and **Reactive Programming** for **iOS development**
 - 🗯️ Interested in **Flutter** for **Mobile development**
 - 🎓 Recently graduated from **Computer Science and Engineering, BUET**
 - 👯 **Highly Passionate** about **Problem Solving** & **Distributed Systems**
-<!-- - 🔭 Currently working on research projects in the field of **Applied ML** -->
 
 <!--- 👯 I’m looking to collaborate on research projects related to **Distributed Systems, Applied Algorithms in Security & Privacy**-->
-<!-- - 🗯️ Research Interests include: **Applied Algorithms**, **Bioinformatics**, **High Dimensional Data Management**-->
-<!--**NLP**, **CoMP 5G**, **Memory Management**  & Memory Management-->
+<!-- - 🔭 Currently working on research projects in the field of **Applied ML** -->
+<!-- - 🗯️ Research Interests include: **Software Engineering**, **Security** -->
 
 
 - 📫 Contact me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mahim-mahbub-0224431b2/)
