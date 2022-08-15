@@ -36,6 +36,6 @@ Here are some ideas to get you started:
       
 <!--[![Gmail](https://github.com/Mahim1997/Mahim1997/blob/main/assets/gmail.png){:height="25px" width="25px"} Gmail](mailto:mahim.mahbub.97@gmail.com)-->
     
-![Checkout my GitHub stats !!](https://github-readme-stats.vercel.app/api?username=Mahim1997&show_icons=true&theme=onedark&count_private=true)
+<!-- ![Checkout my GitHub stats !!](https://github-readme-stats.vercel.app/api?username=Mahim1997&show_icons=true&theme=onedark&count_private=true) -->
 
 
