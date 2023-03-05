@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 Currently working on **Swift**, **UIKit**, **SwiftUI** & **Reactive Programming** for **iOS development**
-- 🗯️ Interested in **Flutter** for **Mobile development**
-- 🎓 Recently graduated from **Computer Science and Engineering, BUET**
-- 👯 **Highly Passionate** about **Distributed Systems**, **Systems & Security**
+- 🎓 Graduated from **Computer Science and Engineering, BUET**
+- 👯 **Highly Passionate** about **Distributed Systems**, **Software Engineering**, **Systems & Security**
 
 <!--- 👯 I’m looking to collaborate on research projects related to **Distributed Systems, Applied Algorithms in Security & Privacy**-->
 <!-- - 🔭 Currently working on research projects in the field of **Applied ML** -->
