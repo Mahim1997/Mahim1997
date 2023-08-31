@@ -10,17 +10,12 @@
 
 <!--<img src="assets/_1.gif" width="250" height="250" />-->
 
-<!--**Mahim1997/Mahim1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
+<!--**Mahim1997/Mahim1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🌱 Currently working on **Swift**, **UIKit**, **SwiftUI** & **Reactive Programming** for **iOS development**
-- 🎓 Graduated from **Computer Science and Engineering, BUET**
-- 👯 **Highly Passionate** about **Distributed Systems**, **Software Engineering**, **Systems & Security**
-
-<!--- 👯 I’m looking to collaborate on research projects related to **Distributed Systems, Applied Algorithms in Security & Privacy**-->
-<!-- - 🔭 Currently working on research projects in the field of **Applied ML** -->
-<!-- - 🗯️ Research Interests include: **Software Engineering**, **Security** -->
+- 🌱 Currently working on **Spring Boot**, **React**, for **Full-Stack Web development** @ **Tekarsh, MarginEdge**
+- 🌱 Previously worked on **Swift**, **UIKit**, **SwiftUI** & **Reactive Programming** for **iOS development** in **SmartThings** project @ **Samsung**
+- 🎓 Graduated from **Computer Science and Engineering, BUET** (Position: **4th**, CGPA: **3.93/4.00**)
+- 👯 **Research Interests** include **Software Engineering**, **Systems** & **Security**
 
 
 - 📫 Contact me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mahim-mahbub-0224431b2/)
