@@ -23,11 +23,7 @@
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Mahim1997)
 &nbsp;
 [<img src="https://github.com/Mahim1997/Mahim1997/blob/main/assets/gmailLogo.svg" width="30" height="25"> Gmail](mailto:mahim.mahbub.97@gmail.com)
-&nbsp;
-[<img src="https://github.com/Mahim1997/Mahim1997/blob/main/assets/pdf-2.png" width="15" height="15"> Resume](https://drive.google.com/file/d/1Asz0m2uLtzas6dSpT-u7ORtuFg0mQ3PP/view?usp=sharing)
-&nbsp;
-[<img src="https://github.com/Mahim1997/Mahim1997/blob/main/assets/pdf-1-cropped.png" width="15" height="15"> CV](https://drive.google.com/file/d/14utuCMbdw4dHISASHANpezAABsjzDqPc/view?usp=sharing)
-      
+ 
 <!--[![Gmail](https://github.com/Mahim1997/Mahim1997/blob/main/assets/gmail.png){:height="25px" width="25px"} Gmail](mailto:mahim.mahbub.97@gmail.com)-->
     
 <!-- ![Checkout my GitHub stats !!](https://github-readme-stats.vercel.app/api?username=Mahim1997&show_icons=true&theme=onedark&count_private=true) -->
