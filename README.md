@@ -18,11 +18,11 @@
 - 👯 **Research Interests** include **Software Engineering**, **Systems** & **Security**
 
 
-- 📫 Contact me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mahim-mahbub-0224431b2/)
+- 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/mahim-mahbub-0224431b2/)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Mahim1997)
+[GitHub](https://github.com/Mahim1997)
 &nbsp;
-[<img src="https://github.com/Mahim1997/Mahim1997/blob/main/assets/gmailLogo.svg" width="30" height="25"> Gmail](mailto:mahim.mahbub.97@gmail.com)
+[Gmail](mailto:mahim.mahbub.97@gmail.com)
  
 <!--[![Gmail](https://github.com/Mahim1997/Mahim1997/blob/main/assets/gmail.png){:height="25px" width="25px"} Gmail](mailto:mahim.mahbub.97@gmail.com)-->
     
