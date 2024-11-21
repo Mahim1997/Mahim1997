@@ -12,10 +12,10 @@
 
 <!--**Mahim1997/Mahim1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🌱 Currently working on **Spring Boot**, **React** & **AngularJS** for **Full-Stack Web development** @ **Tekarsh, MarginEdge**
-- 🌱 Previously worked on **Swift**, **UIKit**, **SwiftUI** & **Reactive Programming** for **iOS development** in **SmartThings** project @ **Samsung**
+- 🌱 Previously worked on **Java**, **Spring Boot**, **React** & **AngularJS** for **Full-Stack Web development** @ **Tekarsh, MarginEdge**
+- 🌱 Previously worked on **Swift**, **UIKit**, **SwiftUI** & **Reactive Programming** for **iOS development** in **SmartThings iOS** project @ **Samsung**
 - 🎓 Graduated from **Computer Science and Engineering, BUET** (Position: **4th**, CGPA: **3.93/4.00**)
-- 👯 **Research Interests** include **Software Engineering**, **Systems** & **Security**
+- 👯 **Research Interests** include **Software Engineering**, **Large Scale Systems** & **Security**
 
 
 - 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/mahim-mahbub-0224431b2/)
